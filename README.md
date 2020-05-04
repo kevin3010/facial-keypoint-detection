@@ -67,3 +67,10 @@ This is sample is taken from the test set which is not used for training. Left s
 ### Visulizing the CNN Filters
 ![alt text](https://github.com/kevin3010/facial-keypoint-detection/blob/master/images/viz_conv_filters.png?raw=True)
 <br>(Ohh by the way that's me)
+
+
+## Object Augmentation using key points
+
+Diffrent objects(here sun-glasses and moustach) can be augmented on the detected keypoints.**Width, Height and Orientation** are set based on keypoints detected.Also this entire system works in real time on cpu.
+
+![alt text](https://github.com/kevin3010/facial-keypoint-detection/blob/master/images/ezgif.com-optimize.gif)
