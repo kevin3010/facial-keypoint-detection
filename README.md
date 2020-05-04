@@ -74,3 +74,8 @@ This is sample is taken from the test set which is not used for training. Left s
 Diffrent objects(here sun-glasses and moustach) can be augmented on the detected keypoints.**Width, Height and Orientation** are set based on keypoints detected.Also this entire system works in real time on cpu.
 
 ![alt text](https://github.com/kevin3010/facial-keypoint-detection/blob/master/images/ezgif.com-optimize.gif)
+
+<br><br>
+
+## Further Ideas
+* Train model only for points correspoding to eyes and nose
