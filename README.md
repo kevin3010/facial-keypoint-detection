@@ -5,7 +5,7 @@ This is a PyTorch project for facial keypoint detection and I have tried to recr
 
 Facial Recognition has large scale applications which include: facial tracking, facial pose recognition, facial filters, and emotion recognition.
 
-## Data-Discription
+## Data-Description
 These set of image data has been extracted from YouTube Faces Dataset, which includes videos of people in YouTube videos. These videos have been fed through some processing steps and turned into sets of image frames containing one face and the associated keypoints.
 
 ### Training and Testing Data
